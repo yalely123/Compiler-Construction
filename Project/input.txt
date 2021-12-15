@@ -1,0 +1,1 @@
+open fan in 1 and set fan swing to off and increase fan speed by 50
