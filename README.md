@@ -10,4 +10,4 @@ This repository is for subject 204442 Compiler Construction.
 * Intermidate Code
 # What I leaned
 * How compiler work in each phase
-* Used basic ANTLR to create parse tree from my own language
+* Used basic ANTLR to create parse tree from my own programming language
